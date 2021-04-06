@@ -1,0 +1,7 @@
+name: FOLCompass
+main: FOLCompass.Main.FOLCompass
+version: 1.0.0
+#api-version: 1.13
+description: FOLCompass
+author: Hu Yu Wei
+commands: 
